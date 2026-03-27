@@ -1,3 +1,5 @@
+"Questo codice è stato notarizzato sulla Blockchain il 27/03/2026.
+SHA-256 Hash: 318ffdc10d8a77803895d8178f37f363bcf1d5f5fe3d61b1ecc6124f00af9b31
 # 🚀 ZJSC V12.3 OMEGA | Quantum Hybrid Engine
 
 **Il compressore JSON più veloce al mondo.** Progettato per superare i limiti di velocità e latenza nei sistemi Big Data e HFT.
